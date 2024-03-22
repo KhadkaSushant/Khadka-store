@@ -190,7 +190,7 @@ else
             <img src="img/w1.png" class="w" class="img-fluid">
           </div>
           <div class="col-md-10  col-lg-10 col-10">
-            <h6 class="wh">24x7 online free support</h6>
+            <h6 class="wh">Free Giveaway</h6>
             <p class="wp">There are many variations of passages Lorem Ipsum available<br>
             but they are many variations </p>
           </div>   
@@ -201,7 +201,7 @@ else
             <img src="img/w1.png" class="w" class="img-fluid">
           </div>
           <div class="col-md-10  col-lg-10 col-10">
-            <h6 class="wh">24x7 online free support</h6>
+            <h6 class="wh">Free Redeem Coupon</h6>
             <p class="wp">There are many variations of passages Lorem Ipsum available<br>
             but they are many variations </p>
           </div>   

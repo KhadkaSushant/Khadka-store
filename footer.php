@@ -8,10 +8,9 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-4 text-center">
-        <img src="img/logo.png" class="footer-img">
-        <p>Lorem ipsum dolor sit amet <br>
-       consectetur adipiscing elit.<br>
-       Lorem ipsum dolor sit amet</p>
+        <h5 class="footer-header">Khadka Store</h5>
+        <p>Khadka Store sells th best and the branded product to the customer in a reasonable price.
+            And give some Discounts to the customers.</p>
         <img src="img/social.png">
         
       </div>
@@ -19,26 +18,21 @@
       <div class="col-lg-3 text-center">
         
         <h5 class="footer-header">my account</h5>
-        <p>Lorem ipsum<br>
-        Lorem ipsum<br>
-        Lorem ipsum<br>
-        Lorem ipsum<br>
-        Lorem ipsum<br>
-        Lorem ipsum<br>
-        Lorem ipsum</p>
+        <p>Cash on Delivery<br>
+        E-sewa<br>
+        Credit Card<br>
+        Debit Card</p>
         
       </div>
        <span  id="footer-line"></span>
       <div class="col-lg-4 text-center">
 
        <h5 class="footer-header">Shop</h5>
-
-      <p>Lorem ipsum<br>
-      Lorem ipsum<br>
-      Lorem ipsum<br>
-      Lorem ipsum<br>
-      Lorem ipsum<br>
-      Lorem ipsum</p>
+          <p><i class="fas fa-home mr-3"></i> Syuchatar-10, Kathmandu<br/>
+          <i class="fas fa-envelope mr-3"></i> khadkastore@gmail.com<br/>
+          <i class="fas fa-phone mr-3"></i> +977 9869546874<br/>
+          <i class="fas fa-print mr-3"></i> 01 5128457</p>
+      
         
         
       </div>

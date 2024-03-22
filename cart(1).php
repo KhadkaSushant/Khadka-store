@@ -161,21 +161,21 @@ if(isset($_GET['remove'])){
 <tbody>
     <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="post">
 
-        <h5>If Cash On delivary Then Put 0 in bkash Field</h5>
+        <h5>Billing Address</h5>
       <div class="input-group form-group">
       <input type="hidden" name="total" value="<?php echo $total ?>">
       <input type="hidden" name="user_id" value="<?php echo $_SESSION['userid']; ?>">
       <input type="hidden" name="user_name" value="<?php echo $_SESSION['username']; ?>">
-        <input type="text" class="form-control" placeholder="Address" name="address">
+        <input type="text" class="form-control" placeholder="Address" name="address" required>
        </div>
        <div class="input-group form-group">
-        <input type="number" class="form-control" placeholder="Phone Number" name="number">
+        <input type="number" class="form-control" placeholder="Phone Number" name="number" required>
        </div>
        <div class="input-group form-group">
-        <input type="number" class="form-control" placeholder="Bkash/Nogod/Rocket Number" name="mobnumber">
+        <input type="text" class="form-control" placeholder="COD/Esewa/Credit card" name="mobnumber" required>
        </div>
        <div class="input-group form-group">
-        <input type="text" class="form-control" placeholder="Txid" name="txid">
+        <input type="text" class="form-control" placeholder="Txid" name="txid" required>
        </div>
 
       <div class="form-group">

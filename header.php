@@ -25,6 +25,7 @@
       
         <div class="row">
           <div class="col-md-12 text-center">
+          <p class="bt2"><span class="bt3">Khadka</span>Store</p>
             <!-- <a href=""><img src="img/logo.png"></a> -->
           </div>
         </div>
@@ -83,7 +84,7 @@ if(isset($_SESSION['auth']))
    if($_SESSION['auth']==1)
    {
     echo $_SESSION['username']; ?>
-    <!-- <a href="profile.php">(My Orders)</a> -->
+    <a href="profile.php">(My Orders)</a>
     <a href="logout.php">(logout)</a>
 <?php
    }
